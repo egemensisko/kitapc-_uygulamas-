@@ -1,0 +1,10 @@
+C:\Users\egeme\Desktop\c#\veritabanı_ornek\veritabanı_ornek\bin\Debug\veritabanı_ornek.exe.config
+C:\Users\egeme\Desktop\c#\veritabanı_ornek\veritabanı_ornek\bin\Debug\veritabanı_ornek.exe
+C:\Users\egeme\Desktop\c#\veritabanı_ornek\veritabanı_ornek\bin\Debug\veritabanı_ornek.pdb
+C:\Users\egeme\Desktop\c#\veritabanı_ornek\veritabanı_ornek\obj\Debug\veritabanı_ornek.csprojAssemblyReference.cache
+C:\Users\egeme\Desktop\c#\veritabanı_ornek\veritabanı_ornek\obj\Debug\veritabanı_ornek.veritabanı_örnek.resources
+C:\Users\egeme\Desktop\c#\veritabanı_ornek\veritabanı_ornek\obj\Debug\veritabanı_ornek.Properties.Resources.resources
+C:\Users\egeme\Desktop\c#\veritabanı_ornek\veritabanı_ornek\obj\Debug\veritabanı_ornek.csproj.GenerateResource.cache
+C:\Users\egeme\Desktop\c#\veritabanı_ornek\veritabanı_ornek\obj\Debug\veritabanı_ornek.csproj.CoreCompileInputs.cache
+C:\Users\egeme\Desktop\c#\veritabanı_ornek\veritabanı_ornek\obj\Debug\veritabanı_ornek.exe
+C:\Users\egeme\Desktop\c#\veritabanı_ornek\veritabanı_ornek\obj\Debug\veritabanı_ornek.pdb
